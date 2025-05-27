@@ -9,7 +9,7 @@ ___
 
    [LEARN PYTHON](https://www.geeksforgeeks.org/python-language-advantages-applications/)
 
-   [LEARN PYTHON](https://www.geeksforgeeks.org/python-language-advantages-applications/ "LEARN PYTHON")
+  
 
 
    [INSPIRATION](https://www.facebook.com/photo/?fbid=1032043630563292&set=a.351120608655601)
