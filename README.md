@@ -12,7 +12,7 @@ ___
   
 
 
-   [INSPIRATION](https://www.facebook.com/photo/?fbid=1032043630563292&set=a.351120608655601)
+  ! [INSPIRATION](https://www.facebook.com/photo/?fbid=1032043630563292&set=a.351120608655601)
 
 
    _My inspiration for this cohort is my older cousin, Darrell. We both worked manual labor jobs that seemed deadend. After he switch to the tech field I noticed a positive change in his energy as well as other things._
